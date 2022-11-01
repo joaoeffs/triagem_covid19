@@ -1,3 +1,3 @@
-# triagem_covid19
+# Sistema especialista - Triagem para COVID
 
-<h1> Aluno: João Victor Effting </h1>
+<h1> Aluno: </h1> <h3>João Victor Effting </h3>
